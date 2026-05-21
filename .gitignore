@@ -1,0 +1,15 @@
+# Exclude everything by default
+/*
+
+# Allow only the three required source folders
+!/Assets
+!/ProjectSettings
+!/Packages
+
+# Allow this file itself
+!.gitignore
+
+# Ignore Unity meta files for hidden/OS files inside allowed folders
+.DS_Store
+Thumbs.db
+._*

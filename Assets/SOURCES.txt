@@ -1,0 +1,15 @@
+External Assets Used
+====================
+
+None. All geometry is built procedurally at runtime using Unity primitives
+(Cube, Cylinder, Capsule, Sphere) with URP Lit materials.
+
+Assets considered but NOT imported (no external downloads were made):
+  - Quaternius Modular Sci-Fi MegaKit (CC0)
+    https://quaternius.itch.io/modular-sci-fi-megakit
+  - WRAD ARMS (CC0)
+    https://wriks.itch.io/wrad-arms
+  - OpenGameArt Low Poly Weapon Pack (CC0)
+    https://opengameart.org/content/low-poly-weapon-pack
+
+All procedural code and scripts are original project work.
