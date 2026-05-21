@@ -8,6 +8,7 @@
 
 # Allow this file itself
 !.gitignore
+!README.md
 
 # Ignore Unity meta files for hidden/OS files inside allowed folders
 .DS_Store
